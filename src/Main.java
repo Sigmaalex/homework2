@@ -69,5 +69,6 @@ public class Main {
         var job2 = plusWorkers * 8;
         System.out.println("Если в компании работает "+plusWorkers+ " человек, то всего " +job2+ " часов работы может быть поделено между сотрудниками");
 
+
     }
     }
