@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25b462ae-908d-45ea-bfcd-44a3bafe7811" name="Changes" comment="задачи 1-8 готовы" />
+    <list default="true" id="25b462ae-908d-45ea-bfcd-44a3bafe7811" name="Changes" comment="создана ветка hw2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -56,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675073914656</updated>
-      <workItem from="1675073915880" duration="8767000" />
+      <workItem from="1675073915880" duration="9188000" />
     </task>
     <task id="LOCAL-00001" summary="задачи 1-8 готовы">
       <created>1675139388855</created>
@@ -65,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675139388855</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="задачи 1-8 готовы">
+      <created>1675139476770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675139476770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="задачи 1-8 готовы" />
-    <option name="LAST_COMMIT_MESSAGE" value="задачи 1-8 готовы" />
+    <MESSAGE value="создана ветка hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="создана ветка hw2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
