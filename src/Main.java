@@ -43,7 +43,7 @@ public class Main {
         frog = frog + 4;
             System.out.println("Переменная frog + 4 = "+frog);
 
-        //Задача №6
+    //Задача №6
         var weightBoxer1 =78.2;
             System.out.println("Вес первого боксера = "+weightBoxer1+"кг");
         var weightBoxer2 =82.7;
